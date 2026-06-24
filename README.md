@@ -19,8 +19,8 @@ A beginner-friendly Bash script that generates secure random passwords using Ope
 ## Usage
 
 ```bash
-chmod +x password_generator.sh
-./password_generator.sh
+chmod +x bashpj.sh
+./bashpj.sh
 ```
 
 Enter the desired password length when prompted, and the script will generate a random password.
